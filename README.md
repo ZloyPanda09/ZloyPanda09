@@ -44,7 +44,7 @@
   <div>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
     <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
-    <img src="https://static.tildacdn.com/tild6635-6361-4931-a632-363462623765/Logo_2.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
+    <img src="https://raw.githubusercontent.com/ZloyPanda09/ZloyPanda09/main/tynbcjv9yvxql069y7skrmt2rpi49vb2.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
 
@@ -70,24 +70,24 @@
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
-<!--<br>
+<!-- <br>
 
 ## 🪴 Практика и стажировка
 [<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/)
 [<img src="/internship_kvadra.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/)
-[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/)--> 
+[<img src="/internship_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/) --> 
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/MaxEvdokimov1/MaxEvdokimov1/main/diplom.png)
-<!--[<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/)--> 
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/ZloyPanda09/ZloyPanda09/main/diplom.png)
+<!-- [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/) --> 
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:metrika8@testcloud.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/evdokimovmax)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:nolik091998@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/zloypanda)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
